@@ -1,4 +1,4 @@
-# API Yatube
+# Yatube
 
 Empower connection, inspire interaction.
 
@@ -62,4 +62,4 @@ Now you are ready to use our API through any of web or desktop platform for your
 
 Artem Maksimov - [@ovienrait](https://t.me/ovienrait) - [nirendsound@gmail.com](https://nirendsound@gmail.com)
 
-Project Link: [API Yatube](https://github.com/ArtemMaksimov-trial/api_final_yatube.git)
+Project Link: [Yatube](https://github.com/ovienrait/Yatube.git)
